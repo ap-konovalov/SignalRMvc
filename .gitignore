@@ -30,7 +30,6 @@ build
 !/build/tools/Dodo.TransformConfiguration
 dist
 .coverage
-lib
 #allow Nuget
 ![Nn]uget.exe
 #allow daemon
