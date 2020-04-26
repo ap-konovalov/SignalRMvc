@@ -4,6 +4,6 @@ Following the example from the article "Tutorial: Get started with ASP.NET Core 
 
 Chat endpoint: https://localhost:5001/api/v1/home
 
-#Connect to Azure SignalR 
+# Connect to Azure SignalR 
 Create file appsettings.local.json and add property SignalRConnectionString with value from AzureSignalR Keys -> Primary -> KEY
 
